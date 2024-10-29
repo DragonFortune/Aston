@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ee10446-53aa-49b2-a0a1-f1540c818c4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework2/hero/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/hero/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/hero/Mage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/hero/Warrior.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrainingGround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrainingGround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrainingGround.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TrainingGround.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -88,16 +91,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TrainingGround.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
