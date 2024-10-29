@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ee10446-53aa-49b2-a0a1-f1540c818c4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework2/hero/Archer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/hero/Mage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/hero/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/Enemy/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/Mortal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TrainingGround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrainingGround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrainingGround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/TrainingGround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework2/hero/Archer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/hero/Archer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework2/hero/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/hero/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework2/hero/Mage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/hero/Mage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework2/hero/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/hero/Warrior.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>

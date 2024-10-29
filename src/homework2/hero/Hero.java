@@ -1,5 +1,7 @@
 package homework2.hero;
 
+import homework2.Enemy.Enemy;
+
 public class Hero {
 
     private String name;
@@ -12,7 +14,7 @@ public class Hero {
         return name;
     }
 
-    public void attackEnemy(){
+    public void attackEnemy(Enemy enemy){
         System.out.println("Hero " + getName() + " is attacking!");
     };
 }
