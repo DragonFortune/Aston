@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ee10446-53aa-49b2-a0a1-f1540c818c4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework2/Enemy/Enemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Mortal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TrainingGround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/TrainingGround.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework2/hero/Archer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/hero/Archer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework2/hero/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/hero/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework2/hero/Mage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/hero/Mage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework2/hero/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/hero/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework2/Enemy/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/Enemy/Enemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework2/Mortal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/Mortal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +49,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.TrainingGround.executor": "Run",
+    "Application.homework2.TrainingGround.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/глаб глаб/IdeaProjects/Aston/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.homework2.TrainingGround">
     <configuration name="TrainingGround" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TrainingGround" />
       <module name="Aston" />
@@ -68,8 +64,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="homework2.TrainingGround" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework2.TrainingGround" />
+      <module name="Aston" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework2.TrainingGround" />
         <item itemvalue="Application.TrainingGround" />
       </list>
     </recent_temporary>
