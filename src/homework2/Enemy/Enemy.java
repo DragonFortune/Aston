@@ -1,6 +1,7 @@
 package homework2.Enemy;
 
 import homework2.Mortal;
+import homework2.hero.Hero;
 
 public class Enemy implements Mortal {
 
@@ -25,5 +26,10 @@ public class Enemy implements Mortal {
     @Override
     public boolean isAlive() {
         return health>=0;
+    }
+
+    public void attackHero(Hero hero) {
+        System.out.println("Enemy is attacking!");
+        hero.takeDamage(50);
     }
 }
